@@ -49,6 +49,9 @@ O modelo foi treinado com o **"Seeds Dataset"** (disponível no UCI Machine Lear
 ## 📁 Estrutura de pastas
 
 ```sh
+├── Assets
+│   └── logo-fiap.png
+│
 ├── CauãSantos_RM566599_Fase4_Cap3.iypnb
 ├── Interpretação dos Resultados e Insights.pdf
 ├── seeds_dataset.txt
